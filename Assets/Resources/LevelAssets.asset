@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6cfb8468b43f54488661691cd5f2668, type: 3}
+  m_Name: LevelAssets
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 00ae1582a24e48e4985918c4b82890bc, type: 2}
+  - {fileID: 2100000, guid: bab6878b7e79be341a24eadf5c16d10b, type: 2}
+  - {fileID: 2100000, guid: dc87cda1d419402419013bbe5f60a7a9, type: 2}
+  - {fileID: 2100000, guid: 02ab4b6b1be517f49b5b319ef8ec6300, type: 2}
+  - {fileID: 2100000, guid: 0f567f0dd1615ab47ac2ddf938ab5327, type: 2}
+  - {fileID: 2100000, guid: eb491255d36c09948bcdfe44a315e191, type: 2}
+  - {fileID: 2100000, guid: e5e33f7d48149794895d5f251381fb7e, type: 2}
+  - {fileID: 2100000, guid: 012b16c828c9ec94090da868322a96f7, type: 2}
+  - {fileID: 2100000, guid: 6cbc878d080301e4fa95cca307c290ae, type: 2}
+  - {fileID: 2100000, guid: 29d730fa9bdddd2468acb62258950321, type: 2}
+  - {fileID: 2100000, guid: fe3bf98837cf3cb4faf9609e37407742, type: 2}
+  - {fileID: 2100000, guid: fdb3d15c172c45143a82b0733890e5f4, type: 2}
+  - {fileID: 2100000, guid: 63f5745635f4acd498be208be15f653a, type: 2}
+  - {fileID: 2100000, guid: 104e2f4de40572e47ae68cabbbb18757, type: 2}
+  - {fileID: 2100000, guid: 7c1b6317085a8b8419b40f276ba52dca, type: 2}
+  - {fileID: 2100000, guid: df3ed1d21a7898c4d9b4244ccf8b236b, type: 2}
+  - {fileID: 2100000, guid: e336fca39d48b1b4a8e81a1aa29d2c6a, type: 2}
+  - {fileID: 2100000, guid: b6a3006f704b9e24d94eaeaee0801de4, type: 2}
+  - {fileID: 2100000, guid: f56459b0e12539d49aa6908d2901506b, type: 2}
+  - {fileID: 2100000, guid: 03770c31c98b37845946d89f5b474947, type: 2}
+  - {fileID: 2100000, guid: e7928b25d86d4a748a7626945557263e, type: 2}
+  - {fileID: 2100000, guid: 55e2f9a6b22544e44ae4c5051580f26f, type: 2}
+  - {fileID: 2100000, guid: 0aa444bed9adc9242a48e8e21c04bf09, type: 2}
+  - {fileID: 2100000, guid: 2d0f2c96e57027740a6828dcf732a1a7, type: 2}
+  - {fileID: 2100000, guid: 0940db277a6deb34990d739ed20f200d, type: 2}
+  - {fileID: 2100000, guid: 129e77845d693c8429d0952c1a6a0be4, type: 2}
+  - {fileID: 2100000, guid: 48a87dcbeea4d31469967c915d784822, type: 2}
+  - {fileID: 2100000, guid: 6c0e1c16946dac44bb7fd392c082761a, type: 2}
+  - {fileID: 2100000, guid: 763f0b75283a72e44a1bc770d7319715, type: 2}
+  - {fileID: 2100000, guid: 97ba03ee00466994a9fb1d20640bdaed, type: 2}
+  - {fileID: 2100000, guid: a03e5e2f0351b06489790b6e746ddc13, type: 2}
+  - {fileID: 2100000, guid: 403b2bb07b94456448a1ce8fb9a386b8, type: 2}
+  - {fileID: 2100000, guid: 31a3f7b321c71ee40bf7df250ead74f2, type: 2}
+  lensMesh: {fileID: 4300000, guid: 2bc2c953c680d154f89eb8856c8e3d21, type: 2}
